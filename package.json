@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "Node",
+    "react"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ashucj17/react.git"
@@ -15,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ashucj17/react/issues"
   },
-  "homepage": "https://github.com/ashucj17/react#readme"
+  "homepage": "https://github.com/ashucj17/react#readme",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
 }
